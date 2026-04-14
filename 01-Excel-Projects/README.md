@@ -15,3 +15,8 @@ As an aspiring Data Analyst based in Grenoble, I created this project to practic
 
 ---
 *This is the first project of my Data Analytics learning journey.*
+
+<img width="1296" height="843" alt="image" src="https://github.com/user-attachments/assets/ab963e8d-ab55-4e5d-a9b1-2bf40c5eba0c" />
+
+<img width="1322" height="832" alt="image" src="https://github.com/user-attachments/assets/74f3738d-2ce7-422a-b291-aceb2509d56d" />
+
